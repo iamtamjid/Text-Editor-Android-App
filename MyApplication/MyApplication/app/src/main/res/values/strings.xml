@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+<string-array name="font_sizes">
+    <item>12</item>
+    <item>14</item>
+    <item>16</item>
+    <item>18</item>
+    <item>20</item>
+    <item>24</item>
+</string-array>
+</resources>
